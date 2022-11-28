@@ -17,3 +17,20 @@
     max-width: 80px;
     margin-left: 20px;
 }
+
+.search-topo{
+    float: left;
+    padding: 6px 10px;
+    width: 100%;
+    max-width: 500px;
+    margin-left: 160px;
+    margin-top: -4px;
+    outline-color: blue;
+}
+
+.butonSearch{
+    float: left;
+    padding: 6px 30px;
+    margin-top: -4px;
+    color: gray;
+}
