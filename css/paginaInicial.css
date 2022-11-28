@@ -1,0 +1,19 @@
+.topo{
+    width: 100%;
+    padding: 12px 20px;
+
+}
+
+.topo-left{
+    float: left;
+}
+
+.icone-left{
+    float: left;
+}
+
+.image-left{
+    width: 100%;
+    max-width: 80px;
+    margin-left: 20px;
+}
