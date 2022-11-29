@@ -30,7 +30,47 @@
 
 .butonSearch{
     float: left;
-    padding: 6px 30px;
+    padding: 6px 25px;
     margin-top: -4px;
     color: gray;
+}
+
+.mic-topo{
+    float: left;
+    margin-left: 20px;
+    color: rgb(109, 109, 109);
+    font-size: 20px;
+}
+
+.grip-topo{
+    float: left;
+    margin-left: 100px;
+    color: black;
+    font-size: 20px;
+}
+
+.grip-vertical-topo{
+    float: left;
+    margin-left: 50px;
+    color: black;
+    font-size: 20px;
+}
+
+.login-topo{
+    float: left;
+    margin-left: 20px;
+    padding: 10px 20px;
+    color: blue;
+    border: 1px solid blue;
+    background: white;
+    font-weight: bold;
+    margin-top: -8px;
+}
+
+.user-login{
+    color: blue;
+    font-size: 20px !important;
+    float: left;
+    margin-right: 5px;
+    margin-top: -3px;
 }
