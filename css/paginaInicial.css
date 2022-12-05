@@ -97,12 +97,12 @@
 
 .item-lateral-active{
     width: 190px;
-    padding: 9px 12px;
+    padding: 13px 20px;
     color: #616161;
     font-weight: bold;
     background: #e6e6e6;
     font-size: 15px !important;
-    margin-top: 20px;
+    margin-top: 21px;
     cursor: pointer;
 }
 
@@ -110,7 +110,7 @@
     color: red;
     font-size: 18px;
     float: left;
-    margin-left: 10px;
+    margin-left: 1px;
     margin-right: 25px;
 }
 
@@ -120,7 +120,7 @@
 
 .item-lateral{
     width: 190px;
-    padding: 9px 12px;
+    padding: 9px 20px;
     color: #616161;
     font-weight: bold;
     font-size: 15px !important;
@@ -146,6 +146,11 @@
     margin-bottom: 10px;
 }
 
+.separadorDeCima{
+    border: 1px solid rgb(209, 209, 209);
+    margin-top: 20px;
+}
+
 .texto-lateral{
     width: 190px;
     padding: 5px 23px;
@@ -168,6 +173,39 @@
 }
 
 .meio{
-    border-top: 1px solid gray;
-    margin-top: 32px;
+    background: white;
+    height: 550px;
+    width: 1100px;
+    float: right;
+    margin-top: 0px;
+    border-left: 3px solid rgb(209, 209, 209);
+}
+
+.item-meio-active{
+    border: none;
+    cursor: pointer;
+    color: white;
+    background: #616161;
+    padding: 8px 12px;
+    border-radius: 17px;
+    font-size: 15px;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.item-meio{
+    border: 1px solid rgb(198, 196, 196);
+    cursor: pointer;
+    color: black;
+    background: rgb(229, 227, 227);
+    padding: 8px 12px;
+    border-radius: 17px;
+    font-size: 15;
+    margin-left: 7px;
+    margin-top: 5px;
+}
+
+.banner{
+    width: 100%;
+    
 }
