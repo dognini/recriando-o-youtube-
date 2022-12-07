@@ -145,7 +145,7 @@
 }
 
 .separador{
-    height: 1px;
+    border: 1px solid rgb(209, 209, 209);
     background: rgb(209, 209, 209);
     margin-top: 9px;
     margin-bottom: 10px;
