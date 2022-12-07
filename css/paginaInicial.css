@@ -8,6 +8,7 @@
     font-family: 'roboto', sans-serif;
 }
 
+
 .topo{
     width: 100%;
     padding: 12px 20px;
@@ -114,7 +115,7 @@
     color: red;
     font-size: 18px;
     float: left;
-    margin-left: 1px;
+    margin-left: 9px;
     margin-right: 25px;
 }
 
@@ -124,7 +125,7 @@
 
 .item-lateral{
     width: 190px;
-    padding: 15px 12px;
+    padding: 13px 20px;
     color: #616161;
     font-weight: bold;
     font-size: 15px !important;
@@ -292,6 +293,43 @@
     height: 35px;             /*altura*/
     float: left;              /*flutua os dados para esquerda*/
     border-radius: 50%;         /*deixa o objeto esferico*/
-    margin-top: 5px;
+    margin-top: 10px;
+    cursor: pointer;
 }
 
+.titulo-video{
+    font-family: 'roboto', sans-serif;
+    font-size: 15px;
+    float: right;
+    margin-top: -35px;
+    margin-left: 45px;
+    cursor: pointer;
+    color: black;
+}
+
+.nome-canal{
+    float: left;
+    font-family: 'roboto', sans-serif;
+    font-size: 13px;
+    color: gray;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+.verificado{
+    width: 100%;
+    max-width: 13px;
+    float: right;
+    color: gray;
+    margin-top: 2px;
+    margin-left: 5px;
+}
+
+.visualização-hora{
+    float: right;
+    font-family: 'roboto', sans-serif;
+    font-size: 13px;
+    color: gray;
+    margin-right: 9px;
+    margin-top: -9px;
+}
