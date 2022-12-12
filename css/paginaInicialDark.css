@@ -8,15 +8,15 @@
     font-family: 'roboto', sans-serif;
 }
 
-
 .topo{
     width: 100%;
     padding: 12px 20px;
-
+    background: black;
 }
 
 .topo-left{
     float: left;
+    background: black;
 }
 
 .icone-left{
@@ -39,39 +39,45 @@
     margin-left: 120px;
     margin-top: -4px;
     outline-color: blue;
+    background: black;
 }
 
 .butonSearch{
     float: left;
     padding: 6px 25px;
     margin-top: -4px;
-    color: gray;
+    color: white;
     cursor: pointer;
+    background: black;
 }
 
 .mic-topo{
     float: left;
     margin-left: 20px;
-    color: rgb(109, 109, 109);
+    color: white;
     font-size: 20px;
     cursor: pointer;
+    background: black;
 }
 
 .grip-topo{
     float: left;
     margin-left: 220px;
-    color: black;
+    color: white;
     font-size: 20px;
     cursor: pointer;
+    background: black;
 }
 
 .grip-vertical-topo{
     float: left;
     margin-left: 35px;
-    color: black;
+    color: white;
     font-size: 20px;
     cursor: pointer;
+    background: black;
 }
+
 
 .login-topo{
     float: left;
@@ -79,7 +85,7 @@
     padding: 10px 20px;
     color: blue;
     border: 1px solid blue;
-    background: white;
+    background: black;
     font-weight: bold;
     margin-top: -8px;
     cursor: pointer;
@@ -98,14 +104,15 @@
     max-width: 230px;
     height: 1000px;
     float: left;
+    background: black;
 }
 
 .item-lateral-active{
     width: 190px;
     padding: 13px 20px;
-    color: #616161;
+    color: white;
     font-weight: bold;
-    background: #e6e6e6;
+    background: black;
     font-size: 15px !important;
     margin-top: 20px;
     cursor: pointer;
@@ -116,52 +123,54 @@
     font-size: 18px;
     float: left;
     margin-left: 9px;
-    margin-right: 25px;
+    margin-right: 25px;;
 }
 
 .item-lateral-active:hover{
-    background: #d4d4d4;
+    background: #8f8f8f;
 }
 
 .item-lateral{
     width: 190px;
     padding: 13px 20px;
-    color: #616161;
+    color: white;
     font-weight: bold;
     font-size: 15px !important;
     cursor: pointer;
 }
 
 .item-lateral:hover{
-    background: #f8f8f8;
+    background: #2e2c2c;
 }
 
 .icone-lateral{
-    color: #616161;
+    color: white;
     font-size: 18px;
     float: left;
     margin-left: 10px;
     margin-right: 25px;
+    background: ;
 }
 
 .separador{
-    height: 1px;
-    background: rgb(209, 209, 209);
+    border: 1px solid black;
+    background: black;
     margin-top: 9px;
     margin-bottom: 10px;
 }
 
 .separadorDeCima{
-    border: 1px solid rgb(209, 209, 209);
+    border: 1px solid black;
     margin-top: 20px;
 }
 
 .texto-lateral{
     width: 190px;
     padding: 5px 23px;
-    color: #616161;
+    color: white;
     font-weight: bold;
     font-size: 15px !important;
+    background: black;
 }
 
 .login-lateral{
@@ -170,7 +179,7 @@
     padding: 10px 20px;
     color: blue;
     border: 1px solid blue;
-    background: white;
+    background:  black;
     font-weight: bold;
     margin-top: -8px;
     margin-top: 1px;
@@ -178,7 +187,7 @@
 }
 
 .meio{
-    background: white;
+    background: black;
     height: 550px;
     width: 1100px;
     float: right;
@@ -187,8 +196,8 @@
 .item-meio-active{
     border: none;
     cursor: pointer;
-    color: white;
-    background: #616161;
+    color: black;
+    background: white;
     padding: 7px 12px;
     border-radius: 17px;
     font-size: 15px;
@@ -197,10 +206,10 @@
 }
 
 .item-meio{
-    border: 1px solid rgb(198, 196, 196);
+    border: 1px solid black;
     cursor: pointer;
-    color: black;
-    background: rgb(229, 227, 227);
+    color: white;
+    background: rgb(49, 49, 49);
     padding: 7px 12px;
     border-radius: 17px;
     font-size: 15;
@@ -234,7 +243,7 @@
     border: 2px solid blue;
     padding: 10px 15px;
     font-size: 15px;
-    background: transparent;
+    background: black;
     color: blue;
     font-weight: 400;
     margin-left: 35px;
@@ -252,7 +261,7 @@
 }
 
 .area-videos{
-    background: rgb(247, 247, 247);
+    background: black;
     height: 500px;
     padding: 55px 35px;
 }
@@ -304,7 +313,7 @@
     margin-top: -35px;
     margin-left: 45px;
     cursor: pointer;
-    color: black;
+    color:white;
 }
 
 .nome-canal{
